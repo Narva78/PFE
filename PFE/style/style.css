@@ -1,0 +1,15 @@
+.loginBody	{
+	background: url("../img/meeting3.jpg") no-repeat center fixed; ;
+	height: 100%;
+	width: 100%;
+	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  	background-size: cover; /* version standardisée */
+}
+
+.body {
+	background-image: url('images/etude.jpg');
+  }
+
+.nav {
+	background-color: #DCDCDC !important;
+}
